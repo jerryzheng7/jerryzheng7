@@ -1,0 +1,5 @@
+- Hi, I’m Jerry Zheng
+- I am a Student at Boston University
+- I’m interested in Product Design and Machine Learning
+- How to reach me ---> jerryzhen14@gmail.com
+- Pronouns: he/him
