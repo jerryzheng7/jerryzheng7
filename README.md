@@ -2,8 +2,10 @@
  
  ---
  
-- Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/)
-- Interests: Living Life
-- How to reach me ---> jerryzhen14@gmail.com or (954)684-5868
+ ### How to reach me ---> <a href="https://www.linkedin.com/in/jzheng7/"> <img width="24px" src="https://cdn.simpleicons.org/linkedin"  /> <a href="mailto:mailtomejerryzhen14@gmail.com">  <img width="26px" src="https://cdn.simpleicons.org/gmail" />
+ 
+ ### Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/
+ ### Interests: Living Life
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryzheng7&layout=compact&theme=dark)
