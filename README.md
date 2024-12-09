@@ -4,7 +4,7 @@
  
  ### How to reach me ---> <a href="https://www.linkedin.com/in/jerryzheng7/"> <img width="24px" src="https://cdn.simpleicons.org/linkedin"  /> <a href="mailto:jerryzhen14@gmail.com">  <img width="26px" src="https://cdn.simpleicons.org/gmail" />
  
- ### Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/
+ ### Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/)
  ### Interests: Living Life
 
 
