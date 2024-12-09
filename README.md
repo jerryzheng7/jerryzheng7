@@ -14,9 +14,11 @@
 </a>
 
 <br />
- 
- ### Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/)
- ### Interests: Living Life
+
+### About Me
+- Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/) <br />
+- Interests: Living Life
+<br />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryzheng7&layout=compact&theme=dark)
