@@ -2,7 +2,15 @@
  
  ---
  
- ### How to reach me ---> <a href="https://www.linkedin.com/in/jerryzheng7/"> <img width="24px" src="https://cdn.simpleicons.org/linkedin"  /> <a href="mailto:jerryzhen14@gmail.com">  <img width="26px" src="https://cdn.simpleicons.org/gmail" />
+<a href="https://www.linkedin.com/in/jerryzheng7/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+
+<a href="mailto:jerryzhen14h@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+
+<br />
  
  ### Currently: *MS ECE* Student @ [Boston University](https://www.bu.edu/)
  ### Interests: Living Life
