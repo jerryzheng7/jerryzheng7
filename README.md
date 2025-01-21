@@ -20,5 +20,8 @@
 - Interests: Living Life
 <br />
 
+[Download My Resume](https://github.com/user-attachments/files/18494878/Resume-.Jerry.Zheng.Nov.2024.pdf)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryzheng7&layout=compact&theme=dark)
