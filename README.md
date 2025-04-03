@@ -20,7 +20,8 @@
 - Interests: Living Life
 <br />
 
-[Download My Resume](https://github.com/user-attachments/files/18494878/Resume-.Jerry.Zheng.Nov.2024.pdf)
+[Download My Resume](https://github.com/user-attachments/files/19595793/Resume-.Jerry.Zheng.Mar.2025.pdf)
+
 
 
 
