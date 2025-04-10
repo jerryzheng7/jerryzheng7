@@ -9,7 +9,7 @@
   <img align="left" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-<a href="mailto:jerryzhen14h@gmail.com">
+<a href="mailto:jerryzhen14@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
