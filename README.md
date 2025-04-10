@@ -6,7 +6,7 @@
  ---
  
 <a href="https://www.linkedin.com/in/jerryzheng7/">
-  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="left" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
 <a href="mailto:jerryzhen14h@gmail.com">
